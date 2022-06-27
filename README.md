@@ -1,7 +1,7 @@
 ## Hi, I'm Matheus Silva!
 - Computer Science student at UNIFESP 🎓
 - Acquiring knowledge is an addiction for me 📚
-- I Love to code ❤️
+- I Love coding ❤️
 
 <div align="center">
   <a href="https://github.com/math-silva">
