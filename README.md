@@ -18,7 +18,7 @@
   <img align="center" alt="Python-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="CPP-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="rigth" alt="kid-goku" height="200" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
+  <img align="right" alt="kid-goku" height="150" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
 </div>
 
   ##
