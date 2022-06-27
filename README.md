@@ -2,6 +2,8 @@
 - Computer Science student at UNIFESP 🎓
 - Acquiring knowledge is an addiction for me 📚
 - I Love Coding ❤️
+
+
 <div align="center">
   <a href="https://github.com/math-silva">
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=math-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -9,15 +11,15 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="CPP-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="kid-goku" height="150" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif"/>
+  <img align="center" alt="Js-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python-icon" height="45em" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C-icon" height="45em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="CPP-icon" height="45em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="kid-goku" height="180em" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif" style="position: absolute;">
 </div>
 
   ##
