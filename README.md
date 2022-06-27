@@ -1,17 +1,19 @@
 ## Hi, I'm Matheus Silva!
 
-<div style="display: flex"><br>
-  <ul style="display: flex">
-    <li>Computer Science student at UNIFESP 🎓</li>
-    <li>Acquiring knowledge is an addiction for me 📚</li>
-    <li>I Love coding ❤️</li>
-  </ul>
-  <img style="display: flex" height="200" alt="kid-goku-gif" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
+<div style="display: inline_block">
+  <div align="left">
+    <ul>
+      <li>Computer Science student at UNIFESP 🎓</li>
+      <li>Acquiring knowledge is an addiction for me 📚</li>
+      <li>I Love coding ❤️</li>
+    </ul>
+  </div>
+  <img align="right" height="200" alt="kid-goku-gif" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
 </div><br>
-<div align="center">
+<div style="display: block;" align="center">
   <a href="https://github.com/math-silva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=math-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-silva&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=math-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-silva&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
