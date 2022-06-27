@@ -1,8 +1,13 @@
 ## Hi, I'm Matheus Silva!
-- Computer Science student at UNIFESP 🎓
-- Acquiring knowledge is an addiction for me 📚
-- I Love coding ❤️
-<img align="right" alt="kid-goku-gif" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
+
+<div style="display: flex"><br>
+  <ul style="display: flex">
+    <li>Computer Science student at UNIFESP 🎓</li>
+    <li>Acquiring knowledge is an addiction for me 📚</li>
+    <li>I Love coding ❤️</li>
+  </ul>
+  <img style="display: flex" height="200" alt="kid-goku-gif" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
+</div><br>
 <div align="center">
   <a href="https://github.com/math-silva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=math-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -18,9 +23,8 @@
   <img align="center" alt="Python-icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="CPP-icon" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="kid-goku-gif" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.gif">
 </div>
-  
+
   ##
  
 <div>
