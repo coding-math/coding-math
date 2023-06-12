@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/math-silva">
+  <a href="https://github.com/matheuxito">
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=matheuxito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxito&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -20,7 +20,7 @@
   <img align="center" alt="Python-icon" height="30em" width="45em"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-icon" height="30em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="CPP-icon" height="30em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="kid-goku" height="130em" src="https://github.com/math-silva/math-silva/blob/main/kid-goku.png">
+  <img align="right" alt="kid-goku" height="130em" src="https://github.com/matheuxito/matheuxito/blob/main/kid-goku.png">
 </div>
 
   ##
