@@ -1,25 +1,20 @@
 ## Hi, I'm Matheus Silva!
 - Computer Science student at UNIFESP 🎓
+- Junior Developer | Django
 - Acquiring knowledge is an addiction for me 📚
 - I Love Coding ❤️
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/matheuxito">
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=matheuxito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxito&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=matheuxito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div width=60% style="display: inline_block"><br>
   <img align="center" alt="Js-icon" height="30em" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-icon" height="30em" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React-icon" height="30em" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Django-icon" height="30em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="HTML-icon" height="30em" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="30em" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-icon" height="30em" width="45em"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C-icon" height="30em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="CPP-icon" height="30em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="kid-goku" height="130em" src="https://github.com/matheuxito/matheuxito/blob/main/kid-goku.png">
 </div>
 
