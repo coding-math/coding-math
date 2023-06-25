@@ -47,6 +47,6 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=matheuxito&icon=0&color=12" height="25">
+    <img src="https://visitcount.itsvg.in/api?id=matheuxito&icon=0&color=1" height="25">
   </a>
 </p>
