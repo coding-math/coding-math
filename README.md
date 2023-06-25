@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm Matheus Silva! 👋</div>
 
-<img align="right" alt="kid-goku" height="130em" src="https://github.com/matheuxito/matheuxito/blob/main/kid-goku.png">
+<img align="right" alt="kid-goku" height="130em" src="kid-goku.png">
 
 - 🎓 Computer Science student at UNIFESP <br>
 - 👨‍💻 Full-Stack Developer | Django <br>
