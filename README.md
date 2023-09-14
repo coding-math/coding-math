@@ -3,7 +3,7 @@
 <img align="right" alt="kid-goku" height="130em" src="kid-goku.png">
 
 - 🎓 Computer Science student at UNIFESP <br>
-- 👨‍💻 Full-Stack Developer | Django <br>
+- 👨‍💻 Software Engineer <br>
 - 📚 Acquiring knowledge is an addiction for me <br>
 - 🌍 Passionate about exploring new technologies and their impact on the world <br>
 - 🤖 Intrigued by the possibilities of AI, always curious to explore its capabilities
