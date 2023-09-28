@@ -33,7 +33,7 @@
 
 ## <div align="center">Contact Me 📧</div>
 <div align="center">
-  <a href="https://linkedin.com/in/matheus-silva-563ab61b8" target="_blank">
+  <a href="https://linkedin.com/in/matheuxito/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
   </a>
   <a href="mailto:matheus.souza28042001@gmail.com" target="_blank">
