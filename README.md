@@ -46,8 +46,6 @@
   </a>
 </div>
 
----
-
 ## <div align="center">Portfolio ⭐</div>
 <p align="center">
   <a href="https://matheuxito-portfolio.vercel.app/" target="_blank">
