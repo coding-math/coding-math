@@ -48,8 +48,9 @@
 
 ---
 
+## <div align="center">Portfolio ⭐</div>
 <p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=matheuxito&icon=0&color=1" height="25">
+  <a href="https://matheuxito-portfolio.vercel.app/" target="_blank">
+    <img src="portfolio.png" height="400">
   </a>
 </p>
