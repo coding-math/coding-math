@@ -26,10 +26,10 @@
 
 ## <div align="center">GitHub Stats 📊</div>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheuxito&theme=dark&hide_border=false&include_all_commits=true">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=matheuxito&theme=dark&hide_border=false&include_all_commits=true">
 </p>
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuxito&theme=dark&hide_border=false?locale=pt_BR">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuxito&theme=dark&hide_border=false?locale=pt_BR">
 </p>
 
 
