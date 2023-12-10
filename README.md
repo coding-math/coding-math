@@ -41,9 +41,6 @@
   <a href="mailto:matheus.souza28042001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25">
   </a>
-  <a href="https://instagram.com/matheuxito" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
-  </a>
 </div>
 
 ## <div align="center">Portfolio ⭐</div>
