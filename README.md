@@ -42,10 +42,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25">
   </a>
 </div>
-
-## <div align="center">Portfolio ⭐</div>
-<p align="center">
-  <a href="https://matheuxito-portfolio.vercel.app/" target="_blank">
-    <img src="portfolio.png">
-  </a>
-</p>
