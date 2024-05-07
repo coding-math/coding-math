@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## Tech Stack 💻 
+## 🔧 Technologies  
 
 | Frameworks | Databases | Programming Languages | Tools and Technologies |
 |---|---|---|---|
@@ -22,21 +22,42 @@
 | <p align="center"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="25"></p> || <p align="center"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25"></p> | <p align="center"><img src="https://shields.io/badge/Kubernetes-296de8?logo=Kubernetes&logoColor=FFF" alt="Kubernetes" height="25"></p> |
 | <p align="center"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" height="25"></p> | | <p align="center"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" height="25"></p> | |
 
+</div>
+
+---
+
+<details>
+    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=coding-math)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+<div align="center">
+  
+![Matheus Silva Github Stats](https://github-readme-stats.vercel.app/api?username=coding-math&show_icons=true&count_private=true&include_all_commits=true) ![Matheus Silva Top Languages](https://readme-stats.warengonzaga.com/api/top-langs?username=coding-math&layout=compact)
+
+![Matheus Silva Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=coding-math&show_icons=true)
 
 </div>
 
-## <div align="center">GitHub Stats 📊</div>
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=matheuxito&theme=dark&hide_border=false&include_all_commits=true">
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuxito&theme=dark&hide_border=false">
-</p>
+</details>
 
+---
 
-## <div align="center">Contact Me 📧</div>
+## <div align="center">📧 Contact Me</div>
 <div align="center">
-  <a href="https://linkedin.com/in/matheuxito/" target="_blank">
+  <a href="https://linkedin.com/in/matheussmsilva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
   </a>
   <a href="mailto:matheus.souza28042001@gmail.com" target="_blank">
