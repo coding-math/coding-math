@@ -26,7 +26,7 @@
 
 ---
 
-<details open>
+<details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
@@ -38,7 +38,7 @@
 
 </details>
 
-<details open>
+<details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=coding-math)
