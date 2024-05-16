@@ -30,10 +30,10 @@
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/math-silva/estudai/pull/1) in [math-silva/estudai](https://github.com/math-silva/estudai)
-2. 💪 Opened PR [#1](https://github.com/math-silva/estudai/pull/1) in [math-silva/estudai](https://github.com/math-silva/estudai)
-3. 🎉 Merged PR [#16](https://github.com/coding-math/Game-of-Life/pull/16) in [coding-math/Game-of-Life](https://github.com/coding-math/Game-of-Life)
-4. 💪 Opened PR [#16](https://github.com/coding-math/Game-of-Life/pull/16) in [coding-math/Game-of-Life](https://github.com/coding-math/Game-of-Life)
+1. 🎉 Merged PR [#2](https://github.com/math-silva/estudai/pull/2) in [math-silva/estudai](https://github.com/math-silva/estudai)
+2. 💪 Opened PR [#2](https://github.com/math-silva/estudai/pull/2) in [math-silva/estudai](https://github.com/math-silva/estudai)
+3. 🎉 Merged PR [#1](https://github.com/math-silva/estudai/pull/1) in [math-silva/estudai](https://github.com/math-silva/estudai)
+4. 💪 Opened PR [#1](https://github.com/math-silva/estudai/pull/1) in [math-silva/estudai](https://github.com/math-silva/estudai)
 <!--END_SECTION:activity-->
 
 </details>
