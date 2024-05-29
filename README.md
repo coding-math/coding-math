@@ -49,7 +49,7 @@
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 <div align="center">
   
-![Matheus Silva Github Stats](https://github-readme-stats-math-silva.vercel.app/api?username=math-silva&show_icons=true&count_private=true&include_all_commits=true) ![Matheus Silva Top Languages](https://readme-stats.warengonzaga.com/api/top-langs?username=math-silva&layout=compact)
+![Matheus Silva Github Stats](https://github-readme-stats-math-silva.vercel.app/api?username=math-silva&show_icons=true&count_private=true) 
 
 ![Matheus Silva Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=math-silva&show_icons=true)
 
